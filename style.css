@@ -69,4 +69,14 @@ a{
 }
 .article:hover{
     color: darkred;
+
+}
+h1{
+    font-size: 40px;
+    
+}
+#picture{
+     height: 300px;
+    width:400px;
+    border-radius: 0%;
 }
